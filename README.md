@@ -17,7 +17,10 @@ To demonstrate the ability to analyze wireshark logs, also known as packet captu
 <br>
 
 ## Steps
-Screenshots, Steps, etc
 
-Ref 1: TCP LOG
+<ins> <u> **NOTE** </u> </ins>: This project will demonstrate my proficiency in traffic analysis, and is structured for SOC Level 1 roles. Hands on exposure with Wireshark will be showcased in my Wireshark Lab Series. 
+<br>
+
+## Analysis
+
 <br>

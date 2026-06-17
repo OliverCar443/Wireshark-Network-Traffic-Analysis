@@ -5,7 +5,7 @@ To demonstrate the ability to analyze wireshark logs, also known as packet captu
 <br>
 
 ## Skills Learned
-- <ins> <u> **Documentation:** </u> </ins> Documented security findings for chain of custody.
+- <ins> <u> **Documentation:** </u> </ins> Documented security findings.
 - <ins> <u> **Network Analysis:** </u> </ins> Found the root cause of network latency, packet drops, or dropped connections.
 - <ins> <u> **Log Analysis:** </u> </ins> Analyzed TCP, UDP, DNS, HTTP, and DHCP traffic to identify network issues and detect suspicious communications.
 - <ins> <u> **Threat Detection:** </u> </ins> Investigated packet captures to identify indicators of compromise such as unsual ports use, and malicious or excessive callbacks from suspicious IP Addresses.

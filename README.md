@@ -21,14 +21,31 @@ To demonstrate the ability to analyze wireshark logs, also known as packet captu
 <br>
 
 ## Analysis
+|Reference #    |                  Content              |
+|--------------|----------------------------------------|
+|Ref.1         | Incident & Analysis Report             |
+|Ref.2         | Detailed Dissection                    |
+|Ref.3         | Log Page 1                             |
+|Ref.4         | Log Page 2                             |
+|Ref.5         | DoS Attack Prevention (Continuing My Education)                        |
+<br>
+
+**Ref.1**
 <img width="720" height="980" alt="Wireshark Traffic Analysis-05" src="https://github.com/user-attachments/assets/68f507e0-1da5-4d0e-8729-e684a5c8a85e" />
+<br>
 
+**Ref.2**
 <img width="720" height="980" alt="Wireshark Traffic Analysis-01" src="https://github.com/user-attachments/assets/2a2baac6-64ed-4d8b-9d06-c916f42206bd" />
+<br>
 
+**Ref.3**
 <img width="720" height="980" alt="Wireshark Traffic Analysis-02" src="https://github.com/user-attachments/assets/67ab2e67-92cd-47f3-8581-a88f1003f706" />
+<br>
 
+**Ref.4**
 <img width="720" height="920" alt="Wireshark Traffic Analysis-03" src="https://github.com/user-attachments/assets/b4cd4a16-1bef-4979-9915-a6c0ecffa3d7" />
+<br>
 
+**Ref.5**
 <img width="720" height="920" alt="Wireshark Traffic Analysis-04" src="https://github.com/user-attachments/assets/d171a2b9-ea06-4473-b2ca-9e49f0741aee" />
-
 <br>

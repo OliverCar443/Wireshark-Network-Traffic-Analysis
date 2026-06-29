@@ -27,7 +27,7 @@ To demonstrate the ability to analyze wireshark logs, also known as packet captu
 |Ref.2         | Detailed Dissection                    |
 |Ref.3         | Log Page 1                             |
 |Ref.4         | Log Page 2                             |
-|Ref.5         | DoS Attack Prevention (Continuing My Education)                        |
+|Ref.5         | Recommendation (Continuing My Education)   |
 <br>
 
 **Ref.1**

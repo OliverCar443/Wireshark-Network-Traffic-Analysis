@@ -15,12 +15,12 @@ To demonstrate the ability to analyze wireshark logs, also known as packet captu
 - Wireshark
 <br>
 
-## Steps
 
+## Index
 <ins> <u> **NOTE** </u> </ins>: This project will demonstrate my proficiency in traffic analysis, and is structured for SOC Level 1 roles. Hands on exposure with Wireshark will be showcased in my Wireshark Lab Series. 
+
 <br>
 
-## Analysis
 |Reference #    |                  Content              |
 |--------------|----------------------------------------|
 |Ref.1         | Incident & Analysis Report             |
@@ -28,6 +28,7 @@ To demonstrate the ability to analyze wireshark logs, also known as packet captu
 |Ref.3         | Log Page 1                             |
 |Ref.4         | Log Page 2                             |
 |Ref.5         | Recommendation (Continuing My Education)   |
+
 <br>
 
 **Ref.1**

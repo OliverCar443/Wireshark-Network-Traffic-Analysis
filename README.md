@@ -1,7 +1,7 @@
 # Wireshark Network Traffic Analysis
 
 ## Objective
-To demonstrate the ability to analyze wireshark logs, also known as packet capture or .pcap file. To analyze this log is to be able to inspect raw network traffic at a microscopic level. In this specific project....
+The objective of this analysis is to demonstrate the ability to examine and interpret Wireshark packet capture (.pcap) files by analyzing network traffic at the packet level. This process involves inspecting raw network data to identify communication patterns, network protocols, and potential security issues, while developing a deeper understanding of network behavior and traffic analysis.
 <br>
 
 ## Skills Learned
